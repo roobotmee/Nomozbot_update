@@ -1,0 +1,13 @@
+# Core dependencies
+aiogram>=3.7.0
+python-dotenv>=1.0.0
+
+# Async runtime
+asyncio>=3.4.3
+
+# Logging (optional but recommended)
+loguru>=0.7.0
+
+# For deployment (optional)
+# gunicorn>=21.2.0
+# uvicorn>=0.23.0
